@@ -3,7 +3,7 @@ import streamlit as st
 # Cấu hình trang web
 st.set_page_config(page_title="APP CHO VAY ONLINE KHCN - THUY HOAI", layout="centered")
 
-st.title("🏦 Ứng Dụng Xét Duyệt Khoản Vay")
+st.title("🏦 APP CHO VAY ONLINE KHCN - THUY HOAI")
 st.write("Nhập các thông tin dưới đây để kiểm tra điều kiện vay vốn.")
 
 st.markdown("---")
